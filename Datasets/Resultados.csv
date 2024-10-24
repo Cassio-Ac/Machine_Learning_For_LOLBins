@@ -1,0 +1,271 @@
+NLP;ML;Balancing;Metric;Value;Percentage
+Bag of Words;KNN;Undersampler;Accuracy;0,871532847;87,153
+Bag of Words;KNN;Undersampler;F1-Score;0,879671832;87,967
+Bag of Words;KNN;Undersampler;MCC;0,759027482;75,903
+Bag of Words;KNN;NearMiss;Accuracy;0,891970803;89,197
+Bag of Words;KNN;NearMiss;F1-Score;0,878422782;87,842
+Bag of Words;KNN;NearMiss;MCC;0,793205689;79,321
+Bag of Words;KNN;OneSidedSelection;Accuracy;0,989025379;98,903
+Bag of Words;KNN;OneSidedSelection;F1-Score;0,56703567;56,704
+Bag of Words;KNN;OneSidedSelection;MCC;0,582716563;58,272
+Bag of Words;KNN;Oversampler;Accuracy;0,907716925;90,772
+Bag of Words;KNN;Oversampler;F1-Score;0,913949744;91,395
+Bag of Words;KNN;Oversampler;MCC;0,825170422;82,517
+Bag of Words;KNN;SMOTE;Accuracy;0,916826413;91,683
+Bag of Words;KNN;SMOTE;F1-Score;0,912982945;91,298
+Bag of Words;KNN;SMOTE;MCC;0,836333499;83,633
+Bag of Words;DT;Undersampler;Accuracy;0,899756691;89,976
+Bag of Words;DT;Undersampler;F1-Score;0,892146597;89,215
+Bag of Words;DT;Undersampler;MCC;0,801405679;80,141
+Bag of Words;DT;NearMiss;Accuracy;0,895863747;89,586
+Bag of Words;DT;NearMiss;F1-Score;0,884199134;88,420
+Bag of Words;DT;NearMiss;MCC;0,798596254;79,860
+Bag of Words;DT;OneSidedSelection;Accuracy;0,989586581;98,959
+Bag of Words;DT;OneSidedSelection;F1-Score;0,613425926;61,343
+Bag of Words;DT;OneSidedSelection;MCC;0,619619298;61,962
+Bag of Words;DT;Oversampler;Accuracy;0,919963245;91,996
+Bag of Words;DT;Oversampler;F1-Score;0,916462729;91,646
+Bag of Words;DT;Oversampler;MCC;0,842330718;84,233
+Bag of Words;DT;SMOTE;Accuracy;0,919543417;91,954
+Bag of Words;DT;SMOTE;F1-Score;0,9155659;91,557
+Bag of Words;DT;SMOTE;MCC;0,842201061;84,220
+Bag of Words;RF;Undersampler;Accuracy;0,903649635;90,365
+Bag of Words;RF;Undersampler;F1-Score;0,896767466;89,677
+Bag of Words;RF;Undersampler;MCC;0,808804366;80,880
+Bag of Words;RF;NearMiss;Accuracy;0,899270073;89,927
+Bag of Words;RF;NearMiss;F1-Score;0,888649812;88,865
+Bag of Words;RF;NearMiss;MCC;0,804380782;80,438
+Bag of Words;RF;OneSidedSelection;Accuracy;0,989648937;98,965
+Bag of Words;RF;OneSidedSelection;F1-Score;0,612149533;61,215
+Bag of Words;RF;OneSidedSelection;MCC;0,619785117;61,979
+Bag of Words;RF;Oversampler;Accuracy;0,920509814;92,051
+Bag of Words;RF;Oversampler;F1-Score;0,917035261;91,704
+Bag of Words;RF;Oversampler;MCC;0,843424335;84,342
+Bag of Words;RF;SMOTE;Accuracy;0,919844426;91,984
+Bag of Words;RF;SMOTE;F1-Score;0,915859408;91,586
+Bag of Words;RF;SMOTE;MCC;0,842842701;84,284
+Bag of Words;LR;Undersampler;Accuracy;0,896350365;89,635
+Bag of Words;LR;Undersampler;F1-Score;0,886035313;88,604
+Bag of Words;LR;Undersampler;MCC;0,797529067;79,753
+Bag of Words;LR;NearMiss;Accuracy;0,890024331;89,002
+Bag of Words;LR;NearMiss;F1-Score;0,881177708;88,118
+Bag of Words;LR;NearMiss;MCC;0,782277051;78,228
+Bag of Words;LR;OneSidedSelection;Accuracy;0,985876411;98,588
+Bag of Words;LR;OneSidedSelection;F1-Score;0,31981982;31,982
+Bag of Words;LR;OneSidedSelection;MCC;0,375309192;37,531
+Bag of Words;LR;Oversampler;Accuracy;0,895082461;89,508
+Bag of Words;LR;Oversampler;F1-Score;0,889860881;88,986
+Bag of Words;LR;Oversampler;MCC;0,793118923;79,312
+Bag of Words;LR;SMOTE;Accuracy;0,900302593;90,030
+Bag of Words;LR;SMOTE;F1-Score;0,906749648;90,675
+Bag of Words;LR;SMOTE;MCC;0,809357344;80,936
+Bag of Words;SVM;Undersampler;Accuracy;0,888077859;88,808
+Bag of Words;SVM;Undersampler;F1-Score;0,878435518;87,844
+Bag of Words;SVM;Undersampler;MCC;0,779001351;77,900
+Bag of Words;SVM;NearMiss;Accuracy;0,894403893;89,440
+Bag of Words;SVM;NearMiss;F1-Score;0,884880637;88,488
+Bag of Words;SVM;NearMiss;MCC;0,792274934;79,227
+Bag of Words;SVM;OneSidedSelection;Accuracy;0,985845233;98,585
+Bag of Words;SVM;OneSidedSelection;F1-Score;0,239530988;23,953
+Bag of Words;SVM;OneSidedSelection;MCC;0,341145859;34,115
+Bag of Words;SVM;Oversampler;Accuracy;0,891042601;89,104
+Bag of Words;SVM;Oversampler;F1-Score;0,885396966;88,540
+Bag of Words;SVM;Oversampler;MCC;0,785264068;78,526
+Bag of Words;SVM;SMOTE;Accuracy;0,898013339;89,801
+Bag of Words;SVM;SMOTE;F1-Score;0,904657173;90,466
+Bag of Words;SVM;SMOTE;MCC;0,804864137;80,486
+Bag of Words;NN;Undersampler;Accuracy;0,878832117;87,883
+Bag of Words;NN;Undersampler;F1-Score;0,884239888;88,424
+Bag of Words;NN;Undersampler;MCC;0,767760277;76,776
+Bag of Words;NN;NearMiss;Accuracy;0,904136253;90,414
+Bag of Words;NN;NearMiss;F1-Score;0,894708712;89,471
+Bag of Words;NN;NearMiss;MCC;0,813105842;81,311
+Bag of Words;NN;OneSidedSelection;Accuracy;0,989648937;98,965
+Bag of Words;NN;OneSidedSelection;F1-Score;0,611695906;61,170
+Bag of Words;NN;OneSidedSelection;MCC;0,619509657;61,951
+Bag of Words;NN;Oversampler;Accuracy;0,920905879;92,091
+Bag of Words;NN;Oversampler;F1-Score;0,917414499;91,741
+Bag of Words;NN;Oversampler;MCC;0,844270103;84,427
+Bag of Words;NN;SMOTE;Accuracy;0,920216727;92,022
+Bag of Words;NN;SMOTE;F1-Score;0,916211899;91,621
+Bag of Words;NN;SMOTE;MCC;0,843654825;84,365
+TF-IDF;KNN;Undersampler;Accuracy;0,900729927;90,073
+TF-IDF;KNN;Undersampler;F1-Score;0,902392344;90,239
+TF-IDF;KNN;Undersampler;MCC;0,805510593;80,551
+TF-IDF;KNN;NearMiss;Accuracy;0,762530414;76,253
+TF-IDF;KNN;NearMiss;F1-Score;0,68556701;68,557
+TF-IDF;KNN;NearMiss;MCC;0,575390527;57,539
+TF-IDF;KNN;OneSidedSelection;Accuracy;0,982725827;98,273
+TF-IDF;KNN;OneSidedSelection;F1-Score;0,393873085;39,387
+TF-IDF;KNN;OneSidedSelection;MCC;0,387271182;38,727
+TF-IDF;KNN;Oversampler;Accuracy;0,910394322;91,039
+TF-IDF;KNN;Oversampler;F1-Score;0,910656178;91,066
+TF-IDF;KNN;Oversampler;MCC;0,820869266;82,087
+TF-IDF;KNN;SMOTE;Accuracy;0,922070309;92,207
+TF-IDF;KNN;SMOTE;F1-Score;0,923655947;92,366
+TF-IDF;KNN;SMOTE;MCC;0,84518692;84,519
+TF-IDF;DT;Undersampler;Accuracy;0,908515815;90,852
+TF-IDF;DT;Undersampler;F1-Score;0,909528393;90,953
+TF-IDF;DT;Undersampler;MCC;0,820197272;82,020
+TF-IDF;DT;NearMiss;Accuracy;0,767883212;76,788
+TF-IDF;DT;NearMiss;F1-Score;0,696757788;69,676
+TF-IDF;DT;NearMiss;MCC;0,581435833;58,144
+TF-IDF;DT;OneSidedSelection;Accuracy;0,985703595;98,570
+TF-IDF;DT;OneSidedSelection;F1-Score;0,313108614;31,311
+TF-IDF;DT;OneSidedSelection;MCC;0,358434374;35,843
+TF-IDF;DT;Oversampler;Accuracy;0,93750099;93,750
+TF-IDF;DT;Oversampler;F1-Score;0,940072005;94,007
+TF-IDF;DT;Oversampler;MCC;0,878881683;87,888
+TF-IDF;DT;SMOTE;Accuracy;0,941715119;94,172
+TF-IDF;DT;SMOTE;F1-Score;0,943973197;94,397
+TF-IDF;DT;SMOTE;MCC;0,886920199;88,692
+TF-IDF;RF;Undersampler;Accuracy;0,919221411;91,922
+TF-IDF;RF;Undersampler;F1-Score;0,918945313;91,895
+TF-IDF;RF;Undersampler;MCC;0,839807211;83,981
+TF-IDF;RF;NearMiss;Accuracy;0,770316302;77,032
+TF-IDF;RF;NearMiss;F1-Score;0,700887199;70,089
+TF-IDF;RF;NearMiss;MCC;0,585482947;58,548
+TF-IDF;RF;OneSidedSelection;Accuracy;0,986077765;98,608
+TF-IDF;RF;OneSidedSelection;F1-Score;0,305058366;30,506
+TF-IDF;RF;OneSidedSelection;MCC;0,365862788;36,586
+TF-IDF;RF;Oversampler;Accuracy;0,938166379;93,817
+TF-IDF;RF;Oversampler;F1-Score;0,940695607;94,070
+TF-IDF;RF;Oversampler;MCC;0,880175731;88,018
+TF-IDF;RF;SMOTE;Accuracy;0,943386512;94,339
+TF-IDF;RF;SMOTE;F1-Score;0,945555378;94,556
+TF-IDF;RF;SMOTE;MCC;0,890201093;89,020
+TF-IDF;LR;Undersampler;Accuracy;0,886618005;88,662
+TF-IDF;LR;Undersampler;F1-Score;0,889205896;88,921
+TF-IDF;LR;Undersampler;MCC;0,778305888;77,831
+TF-IDF;LR;NearMiss;Accuracy;0,755231144;75,523
+TF-IDF;LR;NearMiss;F1-Score;0,67982177;67,982
+TF-IDF;LR;NearMiss;MCC;0,553788335;55,379
+TF-IDF;LR;OneSidedSelection;Accuracy;0,984300458;98,430
+TF-IDF;LR;OneSidedSelection;F1-Score;0;0,000
+TF-IDF;LR;OneSidedSelection;MCC;0;0,000
+TF-IDF;LR;Oversampler;Accuracy;0,890195022;89,020
+TF-IDF;LR;Oversampler;F1-Score;0,895075465;89,508
+TF-IDF;LR;Oversampler;MCC;0,784447168;78,445
+TF-IDF;LR;SMOTE;Accuracy;0,891906022;89,191
+TF-IDF;LR;SMOTE;F1-Score;0,896983331;89,698
+TF-IDF;LR;SMOTE;MCC;0,788346001;78,835
+TF-IDF;SVM;Undersampler;Accuracy;0,885158151;88,516
+TF-IDF;SVM;Undersampler;F1-Score;0,88708134;88,708
+TF-IDF;SVM;Undersampler;MCC;0,774286934;77,429
+TF-IDF;SVM;NearMiss;Accuracy;0,756690998;75,669
+TF-IDF;SVM;NearMiss;F1-Score;0,677419355;67,742
+TF-IDF;SVM;NearMiss;MCC;0,562811189;56,281
+TF-IDF;SVM;OneSidedSelection;Accuracy;0,984300458;98,430
+TF-IDF;SVM;OneSidedSelection;F1-Score;0;0,000
+TF-IDF;SVM;OneSidedSelection;MCC;0;0,000
+TF-IDF;SVM;Oversampler;Accuracy;0,893949716;89,395
+TF-IDF;SVM;Oversampler;F1-Score;0,898508096;89,851
+TF-IDF;SVM;Oversampler;MCC;0,791736385;79,174
+TF-IDF;SVM;SMOTE;Accuracy;0,894916113;89,492
+TF-IDF;SVM;SMOTE;F1-Score;0,89948934;89,949
+TF-IDF;SVM;SMOTE;MCC;0,793770619;79,377
+TF-IDF;NN;Undersampler;Accuracy;0,910462287;91,046
+TF-IDF;NN;Undersampler;F1-Score;0,910852713;91,085
+TF-IDF;NN;Undersampler;MCC;0,823159251;82,316
+TF-IDF;NN;NearMiss;Accuracy;0,762530414;76,253
+TF-IDF;NN;NearMiss;F1-Score;0,687580026;68,758
+TF-IDF;NN;NearMiss;MCC;0,572530809;57,253
+TF-IDF;NN;OneSidedSelection;Accuracy;0,986233669;98,623
+TF-IDF;NN;OneSidedSelection;F1-Score;0,326468345;32,647
+TF-IDF;NN;OneSidedSelection;MCC;0,38206273;38,206
+TF-IDF;NN;Oversampler;Accuracy;0,937453462;93,745
+TF-IDF;NN;Oversampler;F1-Score;0,940029165;94,003
+TF-IDF;NN;Oversampler;MCC;0,878794153;87,879
+TF-IDF;NN;SMOTE;Accuracy;0,940661586;94,066
+TF-IDF;NN;SMOTE;F1-Score;0,942940061;94,294
+TF-IDF;NN;SMOTE;MCC;0,884746999;88,475
+Doc2Vec;KNN;Undersampler;Accuracy;0,868126521;86,813
+Doc2Vec;KNN;Undersampler;F1-Score;0,870148539;87,015
+Doc2Vec;KNN;Undersampler;MCC;0,739909092;73,991
+Doc2Vec;KNN;NearMiss;Accuracy;0,947931873;94,793
+Doc2Vec;KNN;NearMiss;F1-Score;0,943296237;94,330
+Doc2Vec;KNN;NearMiss;MCC;0,900189185;90,019
+Doc2Vec;KNN;OneSidedSelection;Accuracy;0,989803259;98,980
+Doc2Vec;KNN;OneSidedSelection;F1-Score;0,564753004;56,475
+Doc2Vec;KNN;OneSidedSelection;MCC;0,607725047;60,773
+Doc2Vec;KNN;Oversampler;Accuracy;0,988727999;98,873
+Doc2Vec;KNN;Oversampler;F1-Score;0,98881175;98,881
+Doc2Vec;KNN;Oversampler;MCC;0,977706045;97,771
+Doc2Vec;KNN;SMOTE;Accuracy;0,93198777;93,199
+Doc2Vec;KNN;SMOTE;F1-Score;0,936092296;93,609
+Doc2Vec;KNN;SMOTE;MCC;0,872141602;87,214
+Doc2Vec;DT;Undersampler;Accuracy;0,746958637;74,696
+Doc2Vec;DT;Undersampler;F1-Score;0,74484789;74,485
+Doc2Vec;DT;Undersampler;MCC;0,494631628;49,463
+Doc2Vec;DT;NearMiss;Accuracy;0,970316302;97,032
+Doc2Vec;DT;NearMiss;F1-Score;0,969269521;96,927
+Doc2Vec;DT;NearMiss;MCC;0,940586207;94,059
+Doc2Vec;DT;OneSidedSelection;Accuracy;0,977729818;97,773
+Doc2Vec;DT;OneSidedSelection;F1-Score;0,343173432;34,317
+Doc2Vec;DT;OneSidedSelection;MCC;0,332206072;33,221
+Doc2Vec;DT;Oversampler;Accuracy;0,99351246;99,351
+Doc2Vec;DT;Oversampler;F1-Score;0,993529937;99,353
+Doc2Vec;DT;Oversampler;MCC;0,987108461;98,711
+Doc2Vec;DT;SMOTE;Accuracy;0,962714469;96,271
+Doc2Vec;DT;SMOTE;F1-Score;0,96308959;96,309
+Doc2Vec;DT;SMOTE;MCC;0,925796043;92,580
+Doc2Vec;RF;Undersampler;Accuracy;0,892944039;89,294
+Doc2Vec;RF;Undersampler;F1-Score;0,884937238;88,494
+Doc2Vec;RF;Undersampler;MCC;0,787580199;78,758
+Doc2Vec;RF;NearMiss;Accuracy;0,989781022;98,978
+Doc2Vec;RF;NearMiss;F1-Score;0,989505247;98,951
+Doc2Vec;RF;NearMiss;MCC;0,979585943;97,959
+Doc2Vec;RF;OneSidedSelection;Accuracy;0,986675425;98,668
+Doc2Vec;RF;OneSidedSelection;F1-Score;0,303921569;30,392
+Doc2Vec;RF;OneSidedSelection;MCC;0,418571393;41,857
+Doc2Vec;RF;Oversampler;Accuracy;0,999968315;99,997
+Doc2Vec;RF;Oversampler;F1-Score;0,999968195;99,997
+Doc2Vec;RF;Oversampler;MCC;0,999936631;99,994
+Doc2Vec;RF;SMOTE;Accuracy;0,997940464;99,794
+Doc2Vec;RF;SMOTE;F1-Score;0,997932208;99,793
+Doc2Vec;RF;SMOTE;MCC;0,995880946;99,588
+Doc2Vec;LR;Undersampler;Accuracy;0,870559611;87,056
+Doc2Vec;LR;Undersampler;F1-Score;0,86;86,000
+Doc2Vec;LR;Undersampler;MCC;0,743168923;74,317
+Doc2Vec;LR;NearMiss;Accuracy;0,977128954;97,713
+Doc2Vec;LR;NearMiss;F1-Score;0,976081425;97,608
+Doc2Vec;LR;NearMiss;MCC;0,954508683;95,451
+Doc2Vec;LR;OneSidedSelection;Accuracy;0,987660693;98,766
+Doc2Vec;LR;OneSidedSelection;F1-Score;0,417712177;41,771
+Doc2Vec;LR;OneSidedSelection;MCC;0,488471668;48,847
+Doc2Vec;LR;Oversampler;Accuracy;0,897989576;89,799
+Doc2Vec;LR;Oversampler;F1-Score;0,895181507;89,518
+Doc2Vec;LR;Oversampler;MCC;0,796784694;79,678
+Doc2Vec;LR;SMOTE;Accuracy;0,906409911;90,641
+Doc2Vec;LR;SMOTE;F1-Score;0,904550706;90,455
+Doc2Vec;LR;SMOTE;MCC;0,813195583;81,320
+Doc2Vec;SVM;Undersampler;Accuracy;0,881265207;88,127
+Doc2Vec;SVM;Undersampler;F1-Score;0,870212766;87,021
+Doc2Vec;SVM;Undersampler;MCC;0,766113671;76,611
+Doc2Vec;SVM;NearMiss;Accuracy;0,98296837;98,297
+Doc2Vec;SVM;NearMiss;F1-Score;0,982367758;98,237
+Doc2Vec;SVM;NearMiss;MCC;0,965920033;96,592
+Doc2Vec;SVM;OneSidedSelection;Accuracy;0,988286259;98,829
+Doc2Vec;SVM;OneSidedSelection;F1-Score;0,457639392;45,764
+Doc2Vec;SVM;OneSidedSelection;MCC;0,524890231;52,489
+Doc2Vec;SVM;Oversampler;Accuracy;0,903447347;90,345
+Doc2Vec;SVM;Oversampler;F1-Score;0,899569076;89,957
+Doc2Vec;SVM;Oversampler;MCC;0,808806825;80,881
+Doc2Vec;SVM;SMOTE;Accuracy;0,914901538;91,490
+Doc2Vec;SVM;SMOTE;F1-Score;0,912759962;91,276
+Doc2Vec;SVM;SMOTE;MCC;0,830490391;83,049
+Doc2Vec;NN;Undersampler;Accuracy;0,900243309;90,024
+Doc2Vec;NN;Undersampler;F1-Score;0,897857499;89,786
+Doc2Vec;NN;Undersampler;MCC;0,800473735;80,047
+Doc2Vec;NN;NearMiss;Accuracy;0,97810219;97,810
+Doc2Vec;NN;NearMiss;F1-Score;0,977145759;97,715
+Doc2Vec;NN;NearMiss;MCC;0,956373461;95,637
+Doc2Vec;NN;OneSidedSelection;Accuracy;0,993181321;99,318
+Doc2Vec;NN;OneSidedSelection;F1-Score;0,774793388;77,479
+Doc2Vec;NN;OneSidedSelection;MCC;0,773318381;77,332
+Doc2Vec;NN;Oversampler;Accuracy;0,996974066;99,697
+Doc2Vec;NN;Oversampler;F1-Score;0,996971763;99,697
+Doc2Vec;NN;Oversampler;MCC;0,993966385;99,397
+Doc2Vec;NN;SMOTE;Accuracy;0,99657008;99,657
+Doc2Vec;NN;SMOTE;F1-Score;0,996563847;99,656
+Doc2Vec;NN;SMOTE;MCC;0,993147891;99,315
